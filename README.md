@@ -14,7 +14,7 @@ Features:
 Installation:
 
 1. Clone the repository:
-   git clone [https://github.com/username/ecourts-fetcher.git](https://github.com/username/ecourts-fetcher.git)
+   git clone [https://github.com/T3rr0r-101/ecourt-fetcher.git](https://github.com/T3rr0r-101/ecourt-fetcher.git)
    cd ecourts-fetcher
 
 2. Create a Python virtual environment:
